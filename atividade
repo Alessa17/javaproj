@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+<meta charset= "UTF-8">
+<title> Aula de programação</title>
+</head>
+<body>
+<h1> Aprendendo Java:)</h1>
+<script> 
+let mensagem=" olá pessoas, da aula de programação!";//String
+const PI= 3.14159;//Number
+let ativo= true;// Boolean
+let soma= 5+3//Adição
+let diferente= 5 != 3; // comparação
+let mensagem=" olá pessoas, da aula de programação!";//String
+const PI= 3.14159;//Number
+let ativo= true;// Boolean
+let soma= 5+3//Adição
+let diferente= 5 != 3; // comparação
+//if-else
+if(soma >10){
+alert("soma maior que 10".);
+</script>
+</body>
+</html>
+
+
